@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,e as o}from"./app.a32fb778.js";const u=JSON.parse('{"title":"全局组件引入","description":"","frontmatter":{},"headers":[],"relativePath":"develop/global.md"}'),l={name:"develop/global.md"},p=o("",7),e=[p];function t(c,r,F,y,D,i){return a(),n("div",null,e)}const B=s(l,[["render",t]]);export{u as __pageData,B as default};
